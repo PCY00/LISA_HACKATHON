@@ -1,6 +1,6 @@
 # LISA_HACKATHON
 
-## 언어 선택
+## Language selection
 
 [English](README.md) | [한국어](README_KR.md)
 
