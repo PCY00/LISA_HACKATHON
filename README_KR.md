@@ -4,7 +4,7 @@
 
 [English](README.md) | [한국어](README_KR.md)
 
-<br><br>
+<br>
 
 - 차량의 비정상 이벤트를 탐지하는 SW개발
 - 주어진 데이터에서 비정상 이벤트 분석
