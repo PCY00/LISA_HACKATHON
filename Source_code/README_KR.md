@@ -1,4 +1,10 @@
-# 결과 보고서
+# LISA HACKATHON
+
+## 언어 선택
+
+[English](README.md) | [한국어](README_KR.md)
+
+<br><br>
 
 ## DATA 출처
 2023 LISA 해커톤에서 주어진 해커톤 비정상 이벤트 - `CCAN.txt` 파일을 활용함.
