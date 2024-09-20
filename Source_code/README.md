@@ -11,6 +11,23 @@ Utilized the anomalous events data from the 2023 LISA Hackathon - `CCAN.txt` fil
 
 <br><br>
 
+## Directory Structure
+
+```
+Source_code/
+├── Data_Collected/
+│   └── Sensing Dataset-00001 ~ 00056.txt
+│ 
+├── code/
+│   ├── PCANBasic.py
+│   ├── CAN 데이터 검출 및 분석.ipynb
+│   ├── CAN 데이터 수집.ipynb
+│   └── 제공된 CAN 데이터 검출 및 분석.ipynb
+
+```
+
+<br><br>
+
 ## Scale of Data
 
 - The data consists of a total of 2,872,262 entries and 15 columns.
