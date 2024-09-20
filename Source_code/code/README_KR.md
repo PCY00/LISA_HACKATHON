@@ -1,5 +1,11 @@
 # 파일 설명
 
+## 언어 선택
+
+[English](README.md) | [한국어](README_KR.md)
+
+<br><br>
+
 ## PCANBasic.py
 - 해당 코드는 PCAN 장치와의 통신을 설정하고 메시지를 주고받는 과정을 간편하게 할 수 있도록, PCAN-Basic API의 인터페이스를 제공하는 Python 모듈임. 
 - 우리는 이것을 활용하였음.
