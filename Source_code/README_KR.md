@@ -11,6 +11,23 @@
 
 <br><br>
 
+## 파일 구조
+
+```
+Source_code/
+├── Data_Collected/
+│   └── Sensing Dataset-00001 ~ 00056.txt
+│ 
+├── code/
+│   ├── PCANBasic.py
+│   ├── CAN 데이터 검출 및 분석.ipynb
+│   ├── CAN 데이터 수집.ipynb
+│   └── 제공된 CAN 데이터 검출 및 분석.ipynb
+
+```
+
+<br><br>
+
 ## DATA의 규모
 
 - (2872262, 15)총 2872262개의 데이터로 구성되어있고, 15개의 칼럼으로 이루어져있음.
