@@ -6,11 +6,6 @@
 
 <br><br>
 
-## Data Source
-Utilized the anomalous events data from the 2023 LISA Hackathon - `CCAN.txt` file.
-
-<br><br>
-
 ## Directory Structure
 
 ```
@@ -25,6 +20,11 @@ Source_code/
 │   └── 제공된 CAN 데이터 검출 및 분석.ipynb
 
 ```
+
+<br><br>
+
+## Data Source
+Utilized the anomalous events data from the 2023 LISA Hackathon - `CCAN.txt` file.
 
 <br><br>
 
